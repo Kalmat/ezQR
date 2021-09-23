@@ -1,0 +1,7 @@
+sys
+os
+qrcode
+pyzbar
+PIL
+clparser  # download from https://bitbucket.org/Kalmat/qr/src/master/ and copy clparser.py into same folder
+
